@@ -1,4 +1,4 @@
 # react-tutorial
 Tic Tac Toe game
 
-![screenshot](screenshot.png)
+![screenshot](https://github.com/zsilverman/react-tutorial/blob/master/ScreenShotGame.png)
